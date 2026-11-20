@@ -1,0 +1,4 @@
+var int : a;
+var : b; 
+constraint a > 5;
+solve satisfy;
